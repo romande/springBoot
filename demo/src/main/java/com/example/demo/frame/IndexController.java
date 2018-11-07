@@ -1,4 +1,4 @@
-package com.example.demo.basic;
+package com.example.demo.frame;
 
 import org.springframework.core.Ordered;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
